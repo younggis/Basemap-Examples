@@ -41,3 +41,6 @@ Basemap示例
 33. 添加线
 34. 通过EPSG设置投影
 35. 坐标转换
+
+运行（MeteoInfo 根目录下运行）
+milab.bat [path\]xxx.py
